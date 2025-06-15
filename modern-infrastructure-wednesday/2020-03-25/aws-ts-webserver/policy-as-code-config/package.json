@@ -2,8 +2,8 @@
     "name": "ec2-config",
     "version": "0.0.7",
     "dependencies": {
-        "@pulumi/aws": "^1.0.0",
-        "@pulumi/policy": "^0.4.1-dev.1584625475",
+        "@pulumi/aws": "^6.18.1",
+        "@pulumi/policy": "^1.14.0",
         "@pulumi/pulumi": "^1.0.0"
     },
     "devDependencies": {
