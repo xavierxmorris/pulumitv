@@ -9,8 +9,8 @@
         "ts-mocha": "latest"
     },
     "dependencies": {
-        "@pulumi/aws": "latest",
-        "@pulumi/awsx": "0.18.14",
-        "@pulumi/pulumi": "latest"
+        "@pulumi/aws": "6.18.1",
+        "@pulumi/awsx": "0.30.0",
+        "@pulumi/pulumi": "2.0.0"
     }
 }
